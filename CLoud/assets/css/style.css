@@ -16,12 +16,12 @@ body {
 }
 
 a {
-  color: #5fcf80;
+  color: #006eb8;
   text-decoration: none;
 }
 
 a:hover {
-  color: #86db9f;
+  color: #0185f1;
   text-decoration: none;
 }
 
@@ -771,9 +771,10 @@ margin-bottom: 10px;
 }
 
 .faq {
-background: #FFFFFF;
+background: #89c9ee;
 box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06);
 border-radius: 4px;
+color: black;
 }
 
 .faq .card {
@@ -805,7 +806,7 @@ padding-right: 30px;
 font-weight: 400;
 font-size: 15px;
 letter-spacing: 1px;
-color: #3B566E;
+color: #000000;
 text-decoration: none !important;
 -webkit-transition: all 0.3s ease 0s;
 -moz-transition: all 0.3s ease 0s;
@@ -826,8 +827,8 @@ float: left;
 -moz-border-radius: 100px;
 border-radius: 100px;
 text-align: center;
-background: #E91E63;
-color: #fff;
+background: #03aa3a;
+color: rgb(0, 0, 0);
 font-size: 12px;
 margin-right: 20px;
 }
@@ -838,7 +839,7 @@ padding-left: 35px;
 padding-bottom: 16px;
 font-weight: 400;
 font-size: 16px;
-color: #6F8BA4;
+color: #000911;
 line-height: 28px;
 letter-spacing: 1px;
 border-top: 1px solid #F3F8FF;
@@ -1003,7 +1004,7 @@ margin-bottom: 14px;
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5fcf80;
+  background: #0049be;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
